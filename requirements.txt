@@ -1,0 +1,10 @@
+transformers
+datasets
+torch
+sentencepiece
+scikit-learn
+pandas
+matplotlib
+ipykernel
+streamlit
+pandas
